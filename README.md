@@ -1,6 +1,6 @@
 # Mini eCommerce Frontend Project
 
-This project is a frontend implementation of a mini eCommerce website built with **React**, **Vite**, and **Tailwind CSS**, consuming the [DummyJSON API](https://dummyjson.com/products).  
+This project is a frontend implementation of a mini eCommerce website built with **React**, **Vite**, and **Tailwind CSS**, consuming the [DummyJSON API](https://dummyjson.com).  
 It demonstrates a modern SPA (Single Page Application) with product listings, search, category filtering, wishlist, shopping cart, checkout, and caching for performance.  
 
 ---
@@ -66,8 +66,8 @@ It demonstrates a modern SPA (Single Page Application) with product listings, se
 Follow these steps to run the project locally:
 
 ```bash
-git clone <your-repo-url>
-cd <project-folder>
+git clone https://github.com/manishjhacse/assigment.git
+cd assigment
 
 # 2. Install dependencies
 npm install
